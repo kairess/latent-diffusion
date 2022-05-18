@@ -1,3 +1,23 @@
+# Image Inpaint using Paint Brush
+
+|Original|Mask|Output|
+|---|---|---|
+|![](outputs/01.png)|![](outputs/01_mask.png)|![](outputs/01_result.png)|
+|![](outputs/02.png)|![](outputs/02_mask.png)|![](outputs/02_result.png)|
+|![](outputs/03.png)|![](outputs/03_mask.png)|![](outputs/03_result.png)|
+|![](outputs/04.png)|![](outputs/04_mask.png)|![](outputs/04_result.png)|
+|![](outputs/05.png)|![](outputs/05_mask.png)|![](outputs/05_result.png)|
+|![](outputs/06.png)|![](outputs/06_mask.png)|![](outputs/06_result.png)|
+|![](outputs/07.png)|![](outputs/07_mask.png)|![](outputs/07_result.png)|
+|![](outputs/08.png)|![](outputs/08_mask.png)|![](outputs/08_result.png)|
+|![](outputs/09.png)|![](outputs/09_mask.png)|![](outputs/09_result.png)|
+
+## Run
+
+```python inpaint.py```
+
+---
+
 # Latent Diffusion Models
 [arXiv](https://arxiv.org/abs/2112.10752) | [BibTeX](#bibtex)
 
