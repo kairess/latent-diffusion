@@ -1,0 +1,3 @@
+__pycache__
+*.ckpt
+latent_diffusion.egg-info
