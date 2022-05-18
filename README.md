@@ -1,4 +1,4 @@
-# Image Inpaint using Paint Brush
+# Image Inpainting using Paint Brush
 
 |Original|Mask|Output|
 |---|---|---|
