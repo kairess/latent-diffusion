@@ -1,5 +1,9 @@
 # Image Inpainting using Paint Brush
 
+![](outputs/result.gif)
+
+## Result
+
 |Original|Mask|Output|
 |---|---|---|
 |![](outputs/01.png)|![](outputs/01_mask.png)|![](outputs/01_result.png)|
